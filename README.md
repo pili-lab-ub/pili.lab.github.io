@@ -5,6 +5,6 @@
 
   # pili-lab-ub's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[pili-lab-ub.github.io/pili-lab-website](https://pili-lab-ub.github.io/pili-lab-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
