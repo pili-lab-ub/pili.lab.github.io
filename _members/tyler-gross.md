@@ -1,8 +1,7 @@
 ---
 name: Tyler Gross
 image: images/tyler_headshot2.jpg
-role: Bioinformatics
-description: PhD Student
+role: phd
 
 links:
   github: https://github.com/tylergross97
