@@ -5,8 +5,8 @@ role: Bioinformatics
 description: PhD Student
 
 links:
-  home-page: https://www.linkedin.com/in/tylergross97/
-  https://github.com/tylergross97
+  home-page: https://github.com/tylergross97
+  linkedin: https://www.linkedin.com/in/tylergross97/
   email: tgross2@buffalo.edu
 ---
 
