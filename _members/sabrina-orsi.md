@@ -2,6 +2,7 @@
 name: Sabrina Orsi
 image: images/sabrina_headshot.jpg
 role: phd
+description: PhD Candidate
 
 links:
   google-scholar: frWz-q4AAAAJ&hl=en
