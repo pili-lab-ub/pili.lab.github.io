@@ -4,8 +4,8 @@ image: images/tyler_headshot2.jpg
 role: phd
 
 links:
-  github: https://github.com/tylergross97
-  linkedin: https://www.linkedin.com/in/tylergross97/
+  github: tylergross97
+  linkedin: tylergross97
   email: tgross2@buffalo.edu
 ---
 
