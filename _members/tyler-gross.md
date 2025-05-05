@@ -1,6 +1,6 @@
 ---
 name: Tyler Gross
-image: images/tyler_headshot2.jpg
+image: images/lab_members/tyler2.jpg
 role: phd
 
 links:

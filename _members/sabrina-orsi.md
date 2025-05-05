@@ -1,6 +1,6 @@
 ---
 name: Sabrina Orsi
-image: images/sabrina_headshot.jpeg
+image: images/lab_members/sabrina.jpg
 role: phd
 description: PhD Candidate
 
